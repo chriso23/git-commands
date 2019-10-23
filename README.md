@@ -1,4 +1,4 @@
-Git commands
+Git Commands
 ------------
 
 The following content contains a reference document that demonstrates how to execute the most common Git commands using the command-line.
