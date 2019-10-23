@@ -167,12 +167,6 @@ git stash pop
 git subtree push --prefix dist origin gh-pages
 ```
 
-### Subtree within repo
-
-```bash
-git subtree add --prefix <local-dir> https://github.com/chrisoung/<repo> master --squash
-git subtree pull --prefix <local-dir> https://github.com/chrisoung/<repo> master --squash
-git subtree push --prefix <local-dir> https://github.com/chrisoung/<repo> master --squash
-```
-
-And press enter, and you'll return to where you were.
+License
+-------
+[MIT License](https://github.com/chrisoung/git-commands/blob/master/LICENSE).
